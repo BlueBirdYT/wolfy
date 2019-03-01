@@ -1182,7 +1182,7 @@ async def ownerinfo(ctx):
     embed = discord.Embed(title="Information about owner", description="Main Creator: xXx_R∅Y∆LWolfy_xXx#6752", color=0x00ff00)
     embed.set_author(name=" Bot Owner ""xXx_R∅Y∆LWolfy_xXx#6752")
     embed.add_field(name="Co-owner: BlueBird ❄ Froakie collector#0440", value="He coded the bot")
-    embed.set_image(url="https://cdn.discordapp.com/attachments/546667977181757450/550645098451304458/453b79abdd41725ec9f8dbf22635118a--assassin-game--story.png")
+    embed.set_image(url="https://cdn.discordapp.com/avatars/550959034052640772/008d4222022b7c2aee798ec85b4cc022.webp?size=1024")
     embed.add_field(name="bot info", value="Wolfy is a bot fun and simple to use we want people to have fun and we will keep improving it as much as we can")
     embed.set_thumbnail(url="https://cdn.discordapp.com/avatars/550959034052640772/008d4222022b7c2aee798ec85b4cc022.png?size=1024")
     await client.say(embed=embed)
