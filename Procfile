@@ -1,1 +1,1 @@
-
+worker: python wolfy.py
